@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, Ninezel here.</h1>
+<h2 align="left">Hi 👋, Ninezel here.</h2>
 <p1 align="left">Hi my name is Nine, my real name being Humayun. I am a Java developer and have been working as a software developer for the past 5 years. I'm passionate about technology and enjoy learning new programming languages. I'm currently learning JavaScript and Node.js. In my free time, I like to travel, explore new cultures, and play chess.</p1>
 
 <h3 align="left">My Status 🗒️</h3>
