@@ -2,7 +2,7 @@
 <p align="left">Hi my name is Nine, my real name being Humayun. I'm passionate about technology and enjoy learning new programming languages. I'm currently learning JavaScript, Node.js, and Java. In my free time, I like to travel, explore new cultures, and play chess.</p>
 
 <h3 align="left">My Status 🗒️</h3>
-- 🔭 I’m currently working on <b>something</b>
+- 🔭 I’m currently working on <b>a minecraft plugin 'Swing Through Grass'. more infomation will be posted later on.</b>
 
 <h3 align="left">Connect with me 🔗</h3>
 <p align="left">
