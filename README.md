@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me 🔗</h3>
 <p align="left">
-<a href="https://twitter.com/humayun2025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="humayun2025" height="30" width="40" /></a>
+<a href="https://x.com/NinezOfficialz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NinezOfficialz" height="30" width="40" /></a>
 </p><p>You can get into contact with me on Discord: <b>ninezel</b></p>
 
 <h3 align="left">Languages and Tools that I use 👓</h3>
