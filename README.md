@@ -2,7 +2,7 @@
 <p align="left">Hi my name is Nine, my real name being Humayun. I'm passionate about technology and enjoy learning and improving my current skill sets.</p>
 
 <h3 align="left">My Status 🗒️</h3>
-- 🔭 Studying in Advanced Cybersecurity and Digital Forensics
+- 🔭 Studying in Cybersecurity and Digital Forensics
 
 <h3 align="left">Connect with me 🔗</h3>
 <p align="left">
