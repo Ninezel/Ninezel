@@ -2,7 +2,7 @@
 <p align="left">Hi my name is Nine, my real name being Humayun. I'm passionate about technology and enjoy learning and improving my current skill sets.</p>
 
 <h3 align="left">My Status 🗒️</h3>
-- 🔭 Designing Library System
+- 🔭 Designing an AI Persona called Sylvia
 
 <h3 align="left">Connect with me 🔗</h3>
 <p align="left">
