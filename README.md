@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋, Ninezel here.</h2>
-<p align="left">Hi my name is Nine, my real name being Humayun. I'm passionate about technology and enjoy learning and improving my current skill sets.</p>
+<p align="left">Hi my name is Nine. I'm the creator of Sylvia.</p>
 
 <h3 align="left">My Status 🗒️</h3>
 - 🔭 Designing an AI Persona called Sylvia
