@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋, Ninezel here.</h2>
 <p align="left">
-I'm Nine, creator of <b>Sylvia</b>, an evolving AI persona.
+I'm Nine, creator of <b>Sylvia</b>, an evolving AI persona designed to think, speak, and grow alongside its user.
 </p>
 
 <h3 align="left">🧠 Current Focus</h3>
@@ -50,9 +50,4 @@ Always open to ideas, collaborations, or just a good tech conversation.
 <img src="https://readme-stats-fast.vercel.app/api?username=ninezel&show_icons=true&theme=tokyonight"/>
 <br>
 <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=ninezel&layout=compact&theme=tokyonight"/>
-</p>
-
-<h3 align="left">🔥 Streak</h3>
-<p align="left">
-<img src="https://streak-stats.demolab.com?user=ninezel&theme=tokyonight"/>
 </p>
