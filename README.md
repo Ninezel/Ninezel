@@ -1,21 +1,63 @@
 <h2 align="left">Hi 👋, Ninezel here.</h2>
-<p align="left">Hi my name is Nine. I'm the creator of Sylvia.</p>
-
-<h3 align="left">My Status 🗒️</h3>
-- 🔭 Designing an AI Persona called Sylvia
-
-<h3 align="left">Connect with me 🔗</h3>
 <p align="left">
-<a href="https://x.com/NinezOfficialz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NinezOfficialz" height="30" width="40" /></a>
-</p><p>You can get into contact with me on Discord: <b>ninezel</b></p>
+I'm Nine, creator of <b>Sylvia</b>, an evolving AI persona.
+</p>
 
-<h3 align="left">Languages and Tools that I use 👓</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://private-user-images.githubusercontent.com/74038190/238200431-3c16d4f2-b757-4c70-8f42-43d5dddd2c36.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjEwNjA1NjUsIm5iZiI6MTcyMTA2MDI2NSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MzEtM2MxNmQ0ZjItYjc1Ny00YzcwLThmNDItNDNkNWRkZGQyYzM2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzE1VDE2MTc0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNkYzA2ODk3ZGJkMzZmODRjYTNlYWUyYThkN2NmNGVkOTQ5NTcyNGU2ZDMzZGJhNGM2YzdkNDgxMzVlZTQ4MzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.-KDnN4rPlGDN7GPQLx7LMG8RYHo9vS9eYUKctnmNhbg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://private-user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjEwNjA1NjUsIm5iZiI6MTcyMTA2MDI2NSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA2MjAtMzk4YjE5YjEtOWFhZS00YzFmLThiYzAtZDE3MmEyYzA4ZDY4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzE1VDE2MTc0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJjNDQyMzg0OTAyMjRhMTZmNDA5YjYyNDE1YTgwZmJlN2I0MzE5ZTllYTYxM2UxNWM0YzZmMWI1NTViMDU3MzImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.OLE8ems9PVrJ2e9Mq3fI5eCxAcQrnZK5eUwpWarB7sI" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<h3 align="left">🧠 Current Focus</h3>
+<ul>
+<li>🚀 Building <b>Sylvia</b>, a real time AI companion with voice, memory, and personality</li>
+<li>🛠️ Creating open source tools for experimentation and creativity</li>
+<li>🌐 Exploring AI, automation, and interactive systems</li>
+</ul>
 
-<h3 align="left">Certifications/Licenses 📜</h3>
-<p align="left"> <a href="https://www.coursera.org/account/accomplishments/verify/KRPS78WACCFN" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" alt="googleai" width="128" height="128"/> </a> <a href="https://www.coursera.org/account/accomplishments/professional-cert/9US43SD7QSKP" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="googlecyber" width="128" height="128"/> </a> </p>
+<h3 align="left">🔗 Connect with me</h3>
+<p align="left">
+<a href="https://x.com/NinezOfficialz" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+</a>
+</p>
 
-<h3 align="left">Skill Stats 🖥️</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ninezel&show_icons=true&theme=dark&locale=en&layout=compact" alt="ninezel" /></p>
-<h3 align="left">Github Stats 📈</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ninezel&theme=dark" alt="ninezel" /></p>
+<p>
+💬 Discord: <b>ninezel</b><br>
+Always open to ideas, collaborations, or just a good tech conversation.
+</p>
+
+<h3 align="left">🛠️ Tech Stack</h3>
+<p align="left">
+<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://firebase.google.com/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/238200431-3c16d4f2-b757-4c70-8f42-43d5dddd2c36.gif" width="40" height="40"/></a>
+<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://unrealengine.com/" target="_blank"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/master/icons/svg/brand/unreal-engine.svg" width="40" height="40"/></a>
+</p>
+
+<h3 align="left">📜 Certifications</h3>
+<p align="left">
+<a href="https://www.coursera.org/account/accomplishments/verify/KRPS78WACCFN" target="_blank">
+<img src="https://images.credly.com/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" width="120" height="120"/>
+</a>
+<a href="https://www.coursera.org/account/accomplishments/professional-cert/9US43SD7QSKP" target="_blank">
+<img src="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="120" height="120"/>
+</a>
+</p>
+
+<h3 align="left">📊 Stats</h3>
+<p align="left">
+<img src="https://readme-stats-fast.vercel.app/api?username=ninezel&show_icons=true&theme=tokyonight"/>
+<br>
+<img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=ninezel&layout=compact&theme=tokyonight"/>
+</p>
+
+<h3 align="left">🔥 Streak</h3>
+<p align="left">
+<img src="https://streak-stats.demolab.com?user=ninezel&theme=tokyonight"/>
+</p>
+
+<p align="center">
+⚡ Currently building open source projects for people to explore, break, and evolve.<br>
+🧩 Sylvia is just the beginning.
+</p>
