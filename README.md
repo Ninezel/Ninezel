@@ -56,8 +56,3 @@ Always open to ideas, collaborations, or just a good tech conversation.
 <p align="left">
 <img src="https://streak-stats.demolab.com?user=ninezel&theme=tokyonight"/>
 </p>
-
-<p align="center">
-⚡ Currently building open source projects for people to explore, break, and evolve.<br>
-🧩 Sylvia is just the beginning.
-</p>
