@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋, Ninezel here.</h2>
 <p align="left">
-I'm Nine, creator of <b>Sylvia</b>, an evolving AI persona designed to think, speak, and grow alongside its user.
+I'm Nine, creator of <b>Sylvia</b>, an evolving AI persona designed to think, speak, and grow alongside its user. Founder of Helios Lab
 </p>
 
 <h3 align="left">🧠 Current Focus</h3>
